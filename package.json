@@ -1,0 +1,8 @@
+{
+  "name": "react-19-compiler-runtime",
+  "packageManager": "yarn@4.5.1",
+  "dependencies": {
+    "react": "19.0.0-rc-ed15d500-20241110",
+    "react-compiler-runtime": "^19.0.0-beta-a7bf2bd-20241110"
+  }
+}
